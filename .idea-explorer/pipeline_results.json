@@ -1,0 +1,27 @@
+{
+  "success": true,
+  "stages": {
+    "resource_finder": {
+      "success": true,
+      "completion_marker": "/data/hypogenicai/workspaces/ai-human-comm-codex/.resource_finder_complete",
+      "outputs": {
+        "literature_review": "/data/hypogenicai/workspaces/ai-human-comm-codex/literature_review.md",
+        "resources_catalog": "/data/hypogenicai/workspaces/ai-human-comm-codex/resources.md",
+        "papers_dir": "/data/hypogenicai/workspaces/ai-human-comm-codex/papers",
+        "datasets_dir": "/data/hypogenicai/workspaces/ai-human-comm-codex/datasets",
+        "code_dir": "/data/hypogenicai/workspaces/ai-human-comm-codex/code"
+      },
+      "log_file": "/data/hypogenicai/workspaces/ai-human-comm-codex/logs/resource_finder_codex.log",
+      "transcript_file": "/data/hypogenicai/workspaces/ai-human-comm-codex/logs/resource_finder_codex_transcript.jsonl",
+      "elapsed_time": 435.81746673583984
+    },
+    "experiment_runner": {
+      "success": true,
+      "return_code": 0,
+      "elapsed_time": 3245.6174461841583,
+      "log_file": "/data/hypogenicai/workspaces/ai-human-comm-codex/logs/execution_codex.log",
+      "transcript_file": "/data/hypogenicai/workspaces/ai-human-comm-codex/logs/execution_codex_transcript.jsonl"
+    }
+  },
+  "work_dir": "/data/hypogenicai/workspaces/ai-human-comm-codex"
+}

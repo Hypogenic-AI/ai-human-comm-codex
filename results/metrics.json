@@ -1,0 +1,26 @@
+{
+  "n": 5,
+  "length_mean": {
+    "baseline": 87.6,
+    "concise": 49.8
+  },
+  "rouge_l_mean": {
+    "baseline": 0.20043712467359218,
+    "concise": 0.23158517526364006
+  },
+  "flesch_mean": {
+    "baseline": 53.20678376282708,
+    "concise": 53.198662769193014
+  },
+  "judge_win_rate": {
+    "concise": 0.8,
+    "baseline": 0.2,
+    "tie": 0.0
+  },
+  "helpsteer_verbosity": {
+    "pearson": 0.5916755277217474,
+    "spearman": 0.6320567475209649,
+    "mean_wc_low_verbosity": 76.76213017751479,
+    "mean_wc_high_verbosity": 190.125
+  }
+}

@@ -1,0 +1,10 @@
+# Exclude all large data payloads by default
+*
+
+# Keep documentation and small tracked assets
+!.gitignore
+!README.md
+!**/README.md
+!**/samples/
+!**/download.sh
+!**/download_instructions.txt
