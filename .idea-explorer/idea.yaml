@@ -1,0 +1,40 @@
+idea:
+  title: 'AI->Human Communication: How to?'
+  domain: artificial_intelligence
+  hypothesis: 'Current AI->Human communication is ineffective because AI tends to
+    generate dense, comprehensive outputs while humans prefer concise information.
+    Investigating methods to make AI->Human communication more effective will improve
+    human understanding and trust in AI-generated research outputs.
+
+    '
+  background:
+    description: 'AI and humans consume information differently. AI works best when
+      given dense and comprehensive information with detailed instructions, but humans
+      like it concise. In the current surge of AI agent developments, it is clear
+      that human->AI communication is most effective when the human user can clearly
+      articulate their request, but how about AI->Human, especially when there is
+      too much information to show? For example, with research agents, they read large
+      collections of papers, code, and data, and possibly do some experiments on their
+      own. In existing research agent works, the tendency is to generate thousands
+      of lines of code and possibly a 100-page report. No human being will possibly
+      read all that in detail, and to fully trust the AI-produced research work, we
+      need to verify that nothing fishy happens in the middle. Imagine a scenario
+      that you are joining some ongoing research project. It is likely not publishable,
+      but there is some progress. How do you quickly onboard with what has been done?
+      Or, you went for a break and want to catch up with the literature you care about
+      (which probably has 100 new papers), how do you quickly catch up with all that
+      information? These types of problems happen a lot with AI->Human communication.
+      It may sound like a classic summarization problem, but it actually requires
+      a lot of careful thinking about what are the most effective ways to help humans
+      understand a dense source of information.
+
+      '
+  metadata:
+    tags: []
+    source: IdeaHub
+    source_url: https://hypogenic.ai/ideahub/idea/pvnfRgOY9ZAkyShkOLW0
+    idea_id: ai__human_communication__how_t_20251214_195815_476c6aea
+    created_at: '2025-12-14T19:58:15.933512'
+    status: submitted
+    github_repo_name: ai-human-comm-codex
+    github_repo_url: https://github.com/Hypogenic-AI/ai-human-comm-codex
